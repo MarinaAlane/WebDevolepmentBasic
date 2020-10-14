@@ -1,0 +1,39 @@
+body {
+    background: #100c2e;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+header {
+color: rgb(94, 88, 77);
+text-align: center;
+font-style: normal;
+}
+
+section{
+    background: whitesmoke;
+    border-radius: 10px ;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.466);
+    font-size: 35pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+color: rgb(0, 0, 0);
+text-align: center;
+}
+
+#imagem {
+    height: 200pt;
+    right: 250pt;
+    left: 250pt;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
