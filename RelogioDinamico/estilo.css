@@ -23,8 +23,9 @@ section{
 }
 
 footer {
-color: rgb(0, 0, 0);
+color: rgb(94, 88, 77);
 text-align: center;
+font-size: 10pt;
 }
 
 #imagem {
@@ -34,6 +35,6 @@ text-align: center;
 }
 
 a {
-    color: black;
+    color:rgb(94, 88, 77);
     text-decoration: none;
 }
