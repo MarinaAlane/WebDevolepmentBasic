@@ -3,7 +3,7 @@ function carregar (){
     var msg = window.document.getElementById('msg')
     var img = window.document.getElementById('imagem')
     var data = new Date()
-    var hora = 22 //data.getHours()
+    var hora = data.getHours()
     var minuto= data.getMinutes()
         
     if (hora >= 0 && hora < 12 ){
